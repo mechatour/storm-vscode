@@ -14,5 +14,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated changelog
 - Updated package manifest
 
-[unreleased]: https://github.com/mechatour/storm-theme/compare/v0.1.0...HEAD
-[v0.1.0]: https://github.com/mechatour/storm-theme/compare/v0.1.0...v0.1.0
+[unreleased]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...HEAD
+[v0.1.0]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...v0.1.0
