@@ -4,6 +4,15 @@ All notable changes to the "storm" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Unreleased] 
 
-- Initial release
+## [v0.1.0] - 2024-05-14
+
+### Changed
+
+- Updated licensing
+- Updated changelog
+- Updated package manifest
+
+[unreleased]: https://github.com/mechatour/storm-theme/compare/v0.1.0...HEAD
+[v0.1.0]: https://github.com/mechatour/storm-theme/compare/v0.1.0...v0.1.0
