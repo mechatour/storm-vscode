@@ -1,0 +1,25 @@
+{
+  "name": "storm",
+  "displayName": "storm",
+  "description": "A dark theme with a hint of blue",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/mechatour/storm-vscode.git"
+  }
+  "contributes": {
+    "themes": [
+      {
+        "label": "Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Storm-color-theme.json"
+      }
+    ]
+  }
+}
