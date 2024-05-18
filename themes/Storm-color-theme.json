@@ -2090,6 +2090,13 @@
 	  "breadcrumb.activeSelectionForeground": "#e0e0e0",
 	  "editorGutter.commentRangeForeground": "#c5c5c5",
 	  "debugExceptionWidget.background": "#111115",
-	  "debugExceptionWidget.border": "#474747"
+	  "debugExceptionWidget.border": "#474747",
+	  "editorBracketHighlight.foreground1": "#644040",
+	  "editorBracketHighlight.foreground2": "#406440",
+	  "editorBracketHighlight.foreground3": "#646440",
+	  "editorBracketHighlight.foreground4": "#404064",
+	  "editorBracketHighlight.foreground5": "#644064",
+	  "editorBracketHighlight.foreground6": "#406464",
+	  "editorBracketHighlight.unexpectedBracket.foreground": "#cfcfd4"
 	}
   }

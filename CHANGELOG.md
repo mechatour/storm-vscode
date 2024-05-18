@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] 
 
+## [v0.1.2] - 2024-05-18
+
+### Added
+
+- Subdued bracket matching colours
+
 ## [v0.1.1] - 2024-05-14
 
 ### Added
@@ -20,6 +26,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated changelog
 - Updated package manifest
 
-[unreleased]: https://github.com/mechatour/storm-vscode/compare/v0.1.1...HEAD
+[unreleased]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...HEAD
+[v0.1.2]: https://github.com/mechatour/storm-vscode/compare/v0.1.2...v0.1.1
 [v0.1.1]: https://github.com/mechatour/storm-vscode/compare/v0.1.1...v0.1.0
 [v0.1.0]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...v0.1.0

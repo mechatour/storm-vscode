@@ -1,4 +1,4 @@
-# storm VS-Code theme README
+# storm VS Code theme README
 
 ## About
 

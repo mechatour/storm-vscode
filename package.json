@@ -1,9 +1,9 @@
 {
   "name": "storm-darktheme",
-  "displayName": "Storm VSCode Dark Theme",
+  "displayName": "Storm VS Code Dark Theme",
   "description": "A dark theme with a hint of blue",
   "icon": "assets/icon.png",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "JackdawDev",
   "author": {
     "name": "Zane Godden"
