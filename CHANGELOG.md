@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] 
 
+## [v0.1.3] - 2025-03-02
+
+### Changed
+
+- Icon updated
+
 ## [v0.1.2] - 2024-05-18
 
 ### Added
@@ -27,6 +33,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated package manifest
 
 [unreleased]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...HEAD
+[v0.1.3]: https://github.com/mechatour/storm-vscode/compare/v0.1.3...v0.1.1
 [v0.1.2]: https://github.com/mechatour/storm-vscode/compare/v0.1.2...v0.1.1
 [v0.1.1]: https://github.com/mechatour/storm-vscode/compare/v0.1.1...v0.1.0
 [v0.1.0]: https://github.com/mechatour/storm-vscode/compare/v0.1.0...v0.1.0
